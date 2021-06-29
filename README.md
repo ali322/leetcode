@@ -8,6 +8,7 @@ Leetcode Solution
 | 序号 | 难度 | 题目 | 解答 |
 | --- | --- | --- | --- |
 | 1 | 简单 | [两数之和](https://leetcode-cn.com/problems/two-sum) | [1.two-sum](solution/1.two-sum.js) |
+| 3 | 中等 | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | [3.longest-substring-without-repeating-characters](solution/3.longest-substring-without-repeating-characters.js) |
 | 46 | 中等 | [全排列](https://leetcode-cn.com/problems/permutations) | [46.permutations](solution/46.permutations.js) |
 | 51 | 困难 | [N皇后](https://leetcode-cn.com/problems/n-queens) | [51.n-queens](solution/51.n-queens.js) |
 | 76 | 困难 | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring) | [76.minimum-window-substring](solution/76.minimum-window-substring.js) |
