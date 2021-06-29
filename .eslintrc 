@@ -1,0 +1,13 @@
+{
+  "root": true,
+  "env": {
+    "node": true
+  },
+  "parserOptions": {
+    "sourceType": "module"
+  },
+  "extends": "standard",
+  "rules": {
+    "eol-last": "off"
+  }
+}

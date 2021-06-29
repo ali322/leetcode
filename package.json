@@ -1,0 +1,18 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "leetcode solutions",
+  "main": "index.js",
+  "scripts": {
+    "show": "leetcode show 1 -g -l javascript -x -o src",
+    "test": "eslint"
+  },
+  "keywords": [
+    "leetcode"
+  ],
+  "author": "alichen",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.29.0"
+  }
+}
