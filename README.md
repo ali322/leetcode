@@ -1,8 +1,9 @@
-Leetcode Solutions
+Leetcode Solution
 ===
 
+[![Build Status][circleci-image]][circleci-url]
 
-## Solutions
+## Solution
 
 | 序号 | 难度 | 题目 | 解答 |
 | --- | --- | --- | --- |
@@ -14,3 +15,6 @@ Leetcode Solutions
 ## License
 
 [MIT License](http://en.wikipedia.org/wiki/MIT_License)
+
+[circleci-url]: https://circleci.com/gh/ali322/leetcode
+[circleci-image]: 	https://img.shields.io/circleci/project/github/ali322/leetcode.svg?style=flat
