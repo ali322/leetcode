@@ -94,4 +94,23 @@ var minDistance = function (word1, word2) {
   }
   return dp[m][n]
 }
+// var minDistance = function (word1, word2) {
+//   const dp = (i, j) => {
+//     console.log('i ==>', i)
+//     console.log('j ==>', j)
+//     if (i === -1) {
+//       return j + 1
+//     }
+//     if (j === -1) {
+//       return i + 1
+//     }
+//     if (word1[i] == word2[j]) {
+//       return dp(i - 1, j - 1)
+//     } else {
+//       return Math.min(dp(i, j - 1) + 1, dp(i - 1, j) + 1, dp(i - 1, j - 1) + 1)
+//     }
+//   }
+//   return dp(word1.length - 1, word2.length - 1)
+// }
 // @lc code=end
+module.exports = minDistance

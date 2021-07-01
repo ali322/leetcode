@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "show": "leetcode show 1 -g -l javascript -x -o src",
-    "test": "eslint"
+    "test": "ava"
   },
   "keywords": [
     "leetcode"
@@ -13,6 +13,7 @@
   "author": "alichen",
   "license": "MIT",
   "devDependencies": {
+    "ava": "^3.15.0",
     "eslint": "^7.29.0"
   }
 }
