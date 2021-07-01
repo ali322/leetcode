@@ -13,6 +13,7 @@ Leetcode Solution
 | 18 | 中等 | [四数之和](https://leetcode-cn.com/problems/4sum) | [18.4sum](solution/18.4sum.js) |
 | 46 | 中等 | [全排列](https://leetcode-cn.com/problems/permutations) | [46.permutations](solution/46.permutations.js) |
 | 51 | 困难 | [N皇后](https://leetcode-cn.com/problems/n-queens) | [51.n-queens](solution/51.n-queens.js) |
+| 72 | 困难 | [编辑距离](https://leetcode-cn.com/problems/edit-distance) | [72.edit-distance](solution/72.edit-distance.js) |
 | 76 | 困难 | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring) | [76.minimum-window-substring](solution/76.minimum-window-substring.js) |
 | 111 | 简单 | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree) | [111.minimum-depth-of-binary-tree](solution/111.minimum-depth-of-binary-tree.js) |
 | 141 | 简单 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle) | [141.linked-list-cycle](solution/141.linked-list-cycle-ii.js) |
