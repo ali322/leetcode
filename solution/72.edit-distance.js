@@ -66,51 +66,59 @@
  * @param {string} word2
  * @return {number}
  */
-var minDistance = function (word1, word2) {
-  let m = word1.length
-  let n = word2.length
-  let dp = new Array(m + 1)
-  for (let i = 0; i < m + 1; i++) {
-    dp[i] = new Array(n + 1).fill(0)
-  }
-  for (let i = 1; i <= m; i++) {
-    dp[i][0] = i
-  }
-  for (let i = 1; i <= n; i++) {
-    dp[0][i] = i
-  }
-  for (let i = 1; i <= m; i++) {
-    for (let j = 1; j <= n; j++) {
-      if (word1.charAt(i - 1) === word2.charAt(j - 1)) {
-        dp[i][j] = dp[i - 1][j - 1]
-      } else {
-        dp[i][j] = Math.min(
-          dp[i - 1][j - 1] + 1,
-          dp[i - 1][j] + 1,
-          dp[i][j - 1] + 1
-        )
-      }
-    }
-  }
-  return dp[m][n]
-}
 // var minDistance = function (word1, word2) {
-//   const dp = (i, j) => {
-//     console.log('i ==>', i)
-//     console.log('j ==>', j)
-//     if (i === -1) {
-//       return j + 1
-//     }
-//     if (j === -1) {
-//       return i + 1
-//     }
-//     if (word1[i] == word2[j]) {
-//       return dp(i - 1, j - 1)
-//     } else {
-//       return Math.min(dp(i, j - 1) + 1, dp(i - 1, j) + 1, dp(i - 1, j - 1) + 1)
+//   let m = word1.length
+//   let n = word2.length
+//   let dp = new Array(m + 1)
+//   for (let i = 0; i < m + 1; i++) {
+//     dp[i] = new Array(n + 1).fill(0)
+//   }
+//   for (let i = 1; i <= m; i++) {
+//     dp[i][0] = i
+//   }
+//   for (let i = 1; i <= n; i++) {
+//     dp[0][i] = i
+//   }
+//   for (let i = 1; i <= m; i++) {
+//     for (let j = 1; j <= n; j++) {
+//       if (word1.charAt(i - 1) === word2.charAt(j - 1)) {
+//         dp[i][j] = dp[i - 1][j - 1]
+//       } else {
+//         dp[i][j] = Math.min(
+//           dp[i - 1][j - 1] + 1,
+//           dp[i - 1][j] + 1,
+//           dp[i][j - 1] + 1
+//         )
+//       }
 //     }
 //   }
-//   return dp(word1.length - 1, word2.length - 1)
+//   return dp[m][n]
 // }
+var minDistance = function (word1, word2) {
+  let memo = {}
+  const dp = (i, j) => {
+    if (i === -1) {
+      return j + 1
+    }
+    if (j === -1) {
+      return i + 1
+    }
+    const key = `${i}-${j}`
+    if (memo[key]) {
+      return memo[key]
+    }
+    if (word1[i] == word2[j]) {
+      memo[key] = dp(i - 1, j - 1)
+    } else {
+      memo[key] = Math.min(
+        dp(i, j - 1) + 1,
+        dp(i - 1, j) + 1,
+        dp(i - 1, j - 1) + 1
+      )
+    }
+    return memo[key]
+  }
+  return dp(word1.length - 1, word2.length - 1)
+}
 // @lc code=end
 module.exports = minDistance

@@ -23,6 +23,7 @@ Leetcode Solution
 | 567 | 中等 | [字符串排列](https://leetcode-cn.com/problems/permutation-in-string) | [567.permutation-in-string](solution/567.permutation-in-string.js) |
 | 704 | 简单 | [二分查找](https://leetcode-cn.com/problems/binary-search) | [704.binary-search](solution/704.binary-search.js) |
 | 752 | 中等 | [打开转盘锁](https://leetcode-cn.com/problems/open-the-lock) | [752.open-the-lock](solution/752.open-the-lock.js) |
+| 887 | 困难 | [鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop) | [887.super-egg-drop](solution/887.super-egg-drop.js) |
 
 ## License
 
