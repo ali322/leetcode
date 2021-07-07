@@ -7,5 +7,5 @@ test('solution #435 should work', (t) => {
     [2, 4],
     [3, 6]
   ])
-  t.is(result, 2)
+  t.is(result, 1)
 })

@@ -81,4 +81,4 @@ var eraseOverlapIntervals = function(intervals) {
   return intervals.length - count
 };
 // @lc code=end
-module.export = eraseOverlapIntervals
+module.exports = eraseOverlapIntervals
