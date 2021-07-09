@@ -27,6 +27,7 @@ Leetcode Solution
 | 435 | 中等 | [无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals) | [435.non-overlapping-intervals](solution/435.non-overlapping-intervals.js) |
 | 516 | 中等 | [最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence) | [516.longest-palindromic-subsequence](solution/516.longest-palindromic-subsequence.js) |
 | 567 | 中等 | [字符串排列](https://leetcode-cn.com/problems/permutation-in-string) | [567.permutation-in-string](solution/567.permutation-in-string.js) |
+| 650 | 中等 | [只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard) | [650.2-keys-keyboard](solution/650.2-keys-keyboard.js) |
 | 704 | 简单 | [二分查找](https://leetcode-cn.com/problems/binary-search) | [704.binary-search](solution/704.binary-search.js) |
 | 752 | 中等 | [打开转盘锁](https://leetcode-cn.com/problems/open-the-lock) | [752.open-the-lock](solution/752.open-the-lock.js) |
 | 877 | 中等 | [石头游戏](https://leetcode-cn.com/problems/stone-game) | [887.super-egg-drop](solution/877.stone-game.js) |
