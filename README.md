@@ -20,6 +20,8 @@ Leetcode Solution
 | 121 | 简单 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) | [121.best-time-to-buy-and-sell-stock](solution/121.best-time-to-buy-and-sell-stock.js) |
 | 141 | 简单 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle) | [141.linked-list-cycle](solution/141.linked-list-cycle-ii.js) |
 | 142 | 中等 | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii) | [142.linked-list-cycle-ii](solution/142.linked-list-cycle.js) |
+| 188 | 困难 | [买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv) | [188.best-time-to-buy-and-sell-stock-iv](solution/188.best-time-to-buy-and-sell-stock-iv.js) |
+| 198 | 中等 | [打家劫舍](https://leetcode-cn.com/problems/house-robber) | [198.house-robber](solution/198.house-robber.js) |
 | 300 | 中等 | [最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence) | [300.longest-increasing-subsequence](solution/300.longest-increasing-subsequence.js) |
 | 322 | 中等 | [零钱兑换](https://leetcode-cn.com/problems/coin-change) | [322.coin-change](solution/322.coin-change.js) |
 | 435 | 中等 | [无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals) | [435.non-overlapping-intervals](solution/435.non-overlapping-intervals.js) |
