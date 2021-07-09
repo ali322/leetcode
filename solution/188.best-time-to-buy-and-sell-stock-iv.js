@@ -62,7 +62,6 @@ var maxProfit = function (k, prices) {
   }
   let max = Math.floor(Math.min(k, n / 2))
   let dp = new Array(n)
-  console.log('max', max)
   for (let i = 0; i < n; i++) {
     dp[i] = [new Array(max + 1).fill(0), new Array(max + 1).fill(0)]
   }
