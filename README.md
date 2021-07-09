@@ -33,6 +33,7 @@ Leetcode Solution
 | 752 | 中等 | [打开转盘锁](https://leetcode-cn.com/problems/open-the-lock) | [752.open-the-lock](solution/752.open-the-lock.js) |
 | 877 | 中等 | [石头游戏](https://leetcode-cn.com/problems/stone-game) | [887.super-egg-drop](solution/877.stone-game.js) |
 | 887 | 困难 | [鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop) | [887.super-egg-drop](solution/887.super-egg-drop.js) |
+| 1143 | 中等 | [最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence) | [1143.longest-common-subsequence](solution/1143.longest-common-subsequence.js) |
 | 1884 | 中等 | [鸡蛋掉落-两枚鸡蛋](https://leetcode-cn.com/problems/egg-drop-with-2-eggs-and-n-floors) | [1884.egg-drop-with-2-eggs-and-n-floors](solution/1884.egg-drop-with-2-eggs-and-n-floors.js) |
 
 ## License
