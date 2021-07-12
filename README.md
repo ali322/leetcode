@@ -13,6 +13,7 @@ Leetcode Solution
 | 15 | 中等 | [三数之和](https://leetcode-cn.com/problems/3sum) | [15.3sum](solution/15.3sum.js) |
 | 18 | 中等 | [四数之和](https://leetcode-cn.com/problems/4sum) | [18.4sum](solution/18.4sum.js) |
 | 28 | 简单 | [实现strStr函数](https://leetcode-cn.com/problems/implement-strstr) | [28.implement-strstr](solution/28.implement-strstr.js) |
+| 43 | 中等 | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings) | [43.multiply-strings](solution/43.multiply-strings.js) |
 | 46 | 中等 | [全排列](https://leetcode-cn.com/problems/permutations) | [46.permutations](solution/46.permutations.js) |
 | 51 | 困难 | [N皇后](https://leetcode-cn.com/problems/n-queens) | [51.n-queens](solution/51.n-queens.js) |
 | 72 | 困难 | [编辑距离](https://leetcode-cn.com/problems/edit-distance) | [72.edit-distance](solution/72.edit-distance.js) |
