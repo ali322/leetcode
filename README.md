@@ -16,6 +16,7 @@ Leetcode Solution
 | 43 | 中等 | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings) | [43.multiply-strings](solution/43.multiply-strings.js) |
 | 46 | 中等 | [全排列](https://leetcode-cn.com/problems/permutations) | [46.permutations](solution/46.permutations.js) |
 | 51 | 困难 | [N皇后](https://leetcode-cn.com/problems/n-queens) | [51.n-queens](solution/51.n-queens.js) |
+| 56 | 中等 | [合并区间](https://leetcode-cn.com/problems/merge-intervals) | [56.merge-intervals](solution/56.merge-intervals.js) |
 | 72 | 困难 | [编辑距离](https://leetcode-cn.com/problems/edit-distance) | [72.edit-distance](solution/72.edit-distance.js) |
 | 76 | 困难 | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring) | [76.minimum-window-substring](solution/76.minimum-window-substring.js) |
 | 111 | 简单 | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree) | [111.minimum-depth-of-binary-tree](solution/111.minimum-depth-of-binary-tree.js) |
@@ -37,6 +38,7 @@ Leetcode Solution
 | 877 | 中等 | [石头游戏](https://leetcode-cn.com/problems/stone-game) | [887.super-egg-drop](solution/877.stone-game.js) |
 | 887 | 困难 | [鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop) | [887.super-egg-drop](solution/887.super-egg-drop.js) |
 | 969 | 中等 | [煎饼排序](https://leetcode-cn.com/problems/pancake-sorting) | [969.pancake-sorting](solution/969.pancake-sorting.js) |
+| 986 | 中等 | [区间列表的交集](https://leetcode-cn.com/problems/interval-list-intersections) | [986.interval-list-intersections](solution/986.interval-list-intersections.js) |
 | 1143 | 中等 | [最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence) | [1143.longest-common-subsequence](solution/1143.longest-common-subsequence.js) |
 | 1884 | 中等 | [鸡蛋掉落-两枚鸡蛋](https://leetcode-cn.com/problems/egg-drop-with-2-eggs-and-n-floors) | [1884.egg-drop-with-2-eggs-and-n-floors](solution/1884.egg-drop-with-2-eggs-and-n-floors.js) |
 
