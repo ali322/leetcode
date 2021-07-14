@@ -9,6 +9,7 @@ Leetcode Solution
 | --- | --- | --- | --- |
 | 1 | 简单 | [两数之和](https://leetcode-cn.com/problems/two-sum) | [1.two-sum](solution/1.two-sum.js) |
 | 3 | 中等 | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | [3.longest-substring-without-repeating-characters](solution/3.longest-substring-without-repeating-characters.js) |
+| 5 | 中等 | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-palindromic-substring) | [5.longest-palindromic-substring.js](solution/5.longest-palindromic-substring.js) |
 | 10 | 困难 | [正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching) | [10.regular-expression-matching](solution/10.regular-expression-matching.js) |
 | 15 | 中等 | [三数之和](https://leetcode-cn.com/problems/3sum) | [15.3sum](solution/15.3sum.js) |
 | 18 | 中等 | [四数之和](https://leetcode-cn.com/problems/4sum) | [18.4sum](solution/18.4sum.js) |
