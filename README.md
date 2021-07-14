@@ -29,6 +29,7 @@ Leetcode Solution
 | 204 | 简单 | [计算素数](https://leetcode-cn.com/problems/count-primes) | [204.count-primes](solution/204.count-primes.js) |
 | 300 | 中等 | [最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence) | [300.longest-increasing-subsequence](solution/300.longest-increasing-subsequence.js) |
 | 322 | 中等 | [零钱兑换](https://leetcode-cn.com/problems/coin-change) | [322.coin-change](solution/322.coin-change.js) |
+| 382 | 中等 | [链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node) | [382.linked-list-random-node](solution/382.linked-list-random-node.js) |
 | 384 | 中等 | [打乱数组](https://leetcode-cn.com/problems/shuffle-an-array) | [384.shuffle-an-array](solution/384.shuffle-an-array.js) |
 | 386 | 中等 | [字典序排数](https://leetcode-cn.com/problems/lexicographical-numbers) | [386.lexicographical-numbers](solution/386.lexicographical-numbers.js) |
 | 398 | 中等 | [随机数索引](https://leetcode-cn.com/problems/random-pick-index) | [398.random-pick-index.js](solution/398.random-pick-index.js) |
