@@ -49,6 +49,7 @@ Leetcode Solution
 | 887 | 困难 | [鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop) | [887.super-egg-drop](solution/887.super-egg-drop.js) |
 | 969 | 中等 | [煎饼排序](https://leetcode-cn.com/problems/pancake-sorting) | [969.pancake-sorting](solution/969.pancake-sorting.js) |
 | 986 | 中等 | [区间列表的交集](https://leetcode-cn.com/problems/interval-list-intersections) | [986.interval-list-intersections](solution/986.interval-list-intersections.js) |
+| 990 | 中等 | [等式方程的可满足性](https://leetcode-cn.com/problems/satisfiability-of-equality-equations) | [990.satisfiability-of-equality-equations](solution/990.satisfiability-of-equality-equations.js) |
 | 1143 | 中等 | [最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence) | [1143.longest-common-subsequence](solution/1143.longest-common-subsequence.js) |
 | 1319 | 中等 | [连通网络的操作次数](https://leetcode-cn.com/problems/number-of-operations-to-make-network-connected) | [1319.number-of-operations-to-make-network-connected](solution/1319.number-of-operations-to-make-network-connected.js) |
 | 1884 | 中等 | [鸡蛋掉落-两枚鸡蛋](https://leetcode-cn.com/problems/egg-drop-with-2-eggs-and-n-floors) | [1884.egg-drop-with-2-eggs-and-n-floors](solution/1884.egg-drop-with-2-eggs-and-n-floors.js) |
