@@ -27,6 +27,7 @@ Leetcode Solution
 | 188 | 困难 | [买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv) | [188.best-time-to-buy-and-sell-stock-iv](solution/188.best-time-to-buy-and-sell-stock-iv.js) |
 | 198 | 中等 | [打家劫舍](https://leetcode-cn.com/problems/house-robber) | [198.house-robber](solution/198.house-robber.js) |
 | 204 | 简单 | [计算素数](https://leetcode-cn.com/problems/count-primes) | [204.count-primes](solution/204.count-primes.js) |
+| 234 | 简单 | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list) | [234.palindrome-linked-list](solution/234.palindrome-linked-list.js) |
 | 300 | 中等 | [最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence) | [300.longest-increasing-subsequence](solution/300.longest-increasing-subsequence.js) |
 | 322 | 中等 | [零钱兑换](https://leetcode-cn.com/problems/coin-change) | [322.coin-change](solution/322.coin-change.js) |
 | 382 | 中等 | [链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node) | [382.linked-list-random-node](solution/382.linked-list-random-node.js) |
