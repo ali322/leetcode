@@ -22,6 +22,7 @@ Leetcode Solution
 | 76 | 困难 | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring) | [76.minimum-window-substring](solution/76.minimum-window-substring.js) |
 | 111 | 简单 | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree) | [111.minimum-depth-of-binary-tree](solution/111.minimum-depth-of-binary-tree.js) |
 | 121 | 简单 | [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) | [121.best-time-to-buy-and-sell-stock](solution/121.best-time-to-buy-and-sell-stock.js) |
+| 130 | 简单 | [被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions) | [130.surrounded-regions](solution/130.surrounded-regions.js) |
 | 141 | 简单 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle) | [141.linked-list-cycle](solution/141.linked-list-cycle-ii.js) |
 | 142 | 中等 | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii) | [142.linked-list-cycle-ii](solution/142.linked-list-cycle.js) |
 | 188 | 困难 | [买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv) | [188.best-time-to-buy-and-sell-stock-iv](solution/188.best-time-to-buy-and-sell-stock-iv.js) |
