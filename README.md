@@ -34,6 +34,7 @@ Leetcode Solution
 | 382 | 中等 | [链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node) | [382.linked-list-random-node](solution/382.linked-list-random-node.js) |
 | 384 | 中等 | [打乱数组](https://leetcode-cn.com/problems/shuffle-an-array) | [384.shuffle-an-array](solution/384.shuffle-an-array.js) |
 | 386 | 中等 | [字典序排数](https://leetcode-cn.com/problems/lexicographical-numbers) | [386.lexicographical-numbers](solution/386.lexicographical-numbers.js) |
+| 392 | 中等 | [判断子序列](https://leetcode-cn.com/problems/is-subsequence) | [392.is-subsequence](solution/392.is-subsequence.js) |
 | 398 | 中等 | [随机数索引](https://leetcode-cn.com/problems/random-pick-index) | [398.random-pick-index.js](solution/398.random-pick-index.js) |
 | 435 | 中等 | [无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals) | [435.non-overlapping-intervals](solution/435.non-overlapping-intervals.js) |
 | 437 | 中等 | [路径总和 III](https://leetcode-cn.com/problems/path-sum-iii) | [437.path-sum-iii](solution/437.path-sum-iii.js) |
