@@ -30,7 +30,8 @@ Leetcode Solution
 | 300 | 中等 | [最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence) | [300.longest-increasing-subsequence](solution/300.longest-increasing-subsequence.js) |
 | 322 | 中等 | [零钱兑换](https://leetcode-cn.com/problems/coin-change) | [322.coin-change](solution/322.coin-change.js) |
 | 384 | 中等 | [打乱数组](https://leetcode-cn.com/problems/shuffle-an-array) | [384.shuffle-an-array](solution/384.shuffle-an-array.js) |
-| 386 | 中等 | [字典序排数](https://leetcode-cn.com/problems/lexicographical-numbers) | [solution/386.lexicographical-numbers](solution/386.lexicographical-numbers.js) |
+| 386 | 中等 | [字典序排数](https://leetcode-cn.com/problems/lexicographical-numbers) | [386.lexicographical-numbers](solution/386.lexicographical-numbers.js) |
+| 398 | 中等 | [随机数索引](https://leetcode-cn.com/problems/random-pick-index) | [398.random-pick-index.js](solution/398.random-pick-index.js) |
 | 435 | 中等 | [无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals) | [435.non-overlapping-intervals](solution/435.non-overlapping-intervals.js) |
 | 437 | 中等 | [路径总和 III](https://leetcode-cn.com/problems/path-sum-iii) | [437.path-sum-iii](solution/437.path-sum-iii.js) |
 | 516 | 中等 | [最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence) | [516.longest-palindromic-subsequence](solution/516.longest-palindromic-subsequence.js) |
