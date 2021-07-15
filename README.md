@@ -38,6 +38,7 @@ Leetcode Solution
 | 398 | 中等 | [随机数索引](https://leetcode-cn.com/problems/random-pick-index) | [398.random-pick-index.js](solution/398.random-pick-index.js) |
 | 435 | 中等 | [无重叠区间](https://leetcode-cn.com/problems/non-overlapping-intervals) | [435.non-overlapping-intervals](solution/435.non-overlapping-intervals.js) |
 | 437 | 中等 | [路径总和 III](https://leetcode-cn.com/problems/path-sum-iii) | [437.path-sum-iii](solution/437.path-sum-iii.js) |
+| 448 | 简单 | [找到所有数组中缺失的数字]](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array) | [448.find-all-numbers-disappeared-in-an-array](solution/448.find-all-numbers-disappeared-in-an-array.js) |
 | 516 | 中等 | [最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence) | [516.longest-palindromic-subsequence](solution/516.longest-palindromic-subsequence.js) |
 | 560 | 中等 | [和为k的数组](https://leetcode-cn.com/problems/subarray-sum-equals-k) | [560.subarray-sum-equals-k](solution/560.subarray-sum-equals-k.js) |
 | 567 | 中等 | [字符串排列](https://leetcode-cn.com/problems/permutation-in-string) | [567.permutation-in-string](solution/567.permutation-in-string.js) |
