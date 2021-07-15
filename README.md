@@ -25,6 +25,7 @@ Leetcode Solution
 | 130 | 简单 | [被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions) | [130.surrounded-regions](solution/130.surrounded-regions.js) |
 | 141 | 简单 | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle) | [141.linked-list-cycle](solution/141.linked-list-cycle-ii.js) |
 | 142 | 中等 | [环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii) | [142.linked-list-cycle-ii](solution/142.linked-list-cycle.js) |
+| 146 | 中等 | [LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache) | [146.lru-cache](solution/146.lru-cache.js) |
 | 188 | 困难 | [买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv) | [188.best-time-to-buy-and-sell-stock-iv](solution/188.best-time-to-buy-and-sell-stock-iv.js) |
 | 198 | 中等 | [打家劫舍](https://leetcode-cn.com/problems/house-robber) | [198.house-robber](solution/198.house-robber.js) |
 | 204 | 简单 | [计算素数](https://leetcode-cn.com/problems/count-primes) | [204.count-primes](solution/204.count-primes.js) |
