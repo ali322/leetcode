@@ -54,6 +54,7 @@ Leetcode Solution
 | 733 | 简单 | [图像渲染](https://leetcode-cn.com/problems/flood-fill) | [733.flood-fill](solution/733.flood-fill.js) |
 | 752 | 中等 | [打开转盘锁](https://leetcode-cn.com/problems/open-the-lock) | [752.open-the-lock](solution/752.open-the-lock.js) |
 | 855 | 中等 | [考场就坐](https://leetcode-cn.com/problems/exam-room) | [855.exam-room](solution/855.exam-room.js) |
+| 875 | 中等 | [爱吃香蕉的珂珂](https://leetcode-cn.com/problems/koko-eating-bananas) | [875.koko-eating-bananas](solution/875.koko-eating-bananas.js) |
 | 877 | 中等 | [石头游戏](https://leetcode-cn.com/problems/stone-game) | [887.super-egg-drop](solution/877.stone-game.js) |
 | 887 | 困难 | [鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop) | [887.super-egg-drop](solution/887.super-egg-drop.js) |
 | 969 | 中等 | [煎饼排序](https://leetcode-cn.com/problems/pancake-sorting) | [969.pancake-sorting](solution/969.pancake-sorting.js) |
