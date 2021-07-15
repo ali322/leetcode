@@ -17,6 +17,7 @@ Leetcode Solution
 | 25 | 困难 | [K个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group) | [25.reverse-nodes-in-k-group](solution/25.reverse-nodes-in-k-group.js) |
 | 26 | 简单 | [删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) | [26.remove-duplicates-from-sorted-array](solution/26.remove-duplicates-from-sorted-array.js) |
 | 28 | 简单 | [实现strStr函数](https://leetcode-cn.com/problems/implement-strstr) | [28.implement-strstr](solution/28.implement-strstr.js) |
+| 42 | 困难 | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water) | [42.trapping-rain-water](solution/42.trapping-rain-water.js) |
 | 43 | 中等 | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings) | [43.multiply-strings](solution/43.multiply-strings.js) |
 | 46 | 中等 | [全排列](https://leetcode-cn.com/problems/permutations) | [46.permutations](solution/46.permutations.js) |
 | 51 | 困难 | [N皇后](https://leetcode-cn.com/problems/n-queens) | [51.n-queens](solution/51.n-queens.js) |
