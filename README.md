@@ -41,6 +41,7 @@ Leetcode Solution
 | 516 | 中等 | [最长回文子序列](https://leetcode-cn.com/problems/longest-palindromic-subsequence) | [516.longest-palindromic-subsequence](solution/516.longest-palindromic-subsequence.js) |
 | 560 | 中等 | [和为k的数组](https://leetcode-cn.com/problems/subarray-sum-equals-k) | [560.subarray-sum-equals-k](solution/560.subarray-sum-equals-k.js) |
 | 567 | 中等 | [字符串排列](https://leetcode-cn.com/problems/permutation-in-string) | [567.permutation-in-string](solution/567.permutation-in-string.js) |
+| 645 | 简单 | [错误的集合](https://leetcode-cn.com/problems/set-mismatch) | [645.set-mismatch](solution/645.set-mismatch.js) |
 | 650 | 中等 | [只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard) | [650.2-keys-keyboard](solution/650.2-keys-keyboard.js) |
 | 704 | 简单 | [二分查找](https://leetcode-cn.com/problems/binary-search) | [704.binary-search](solution/704.binary-search.js) |
 | 733 | 简单 | [图像渲染](https://leetcode-cn.com/problems/flood-fill) | [733.flood-fill](solution/733.flood-fill.js) |
