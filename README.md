@@ -13,6 +13,7 @@ Leetcode Solution
 | 10 | 困难 | [正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching) | [10.regular-expression-matching](solution/10.regular-expression-matching.js) |
 | 15 | 中等 | [三数之和](https://leetcode-cn.com/problems/3sum) | [15.3sum](solution/15.3sum.js) |
 | 18 | 中等 | [四数之和](https://leetcode-cn.com/problems/4sum) | [18.4sum](solution/18.4sum.js) |
+| 20 | 中等 | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses) | [20.valid-parentheses](solution/20.valid-parentheses.js) |
 | 28 | 简单 | [实现strStr函数](https://leetcode-cn.com/problems/implement-strstr) | [28.implement-strstr](solution/28.implement-strstr.js) |
 | 43 | 中等 | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings) | [43.multiply-strings](solution/43.multiply-strings.js) |
 | 46 | 中等 | [全排列](https://leetcode-cn.com/problems/permutations) | [46.permutations](solution/46.permutations.js) |
