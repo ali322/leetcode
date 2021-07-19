@@ -55,6 +55,7 @@ Leetcode Solution
 | 645 | 简单 | [错误的集合](https://leetcode-cn.com/problems/set-mismatch) | [645.set-mismatch](solution/645.set-mismatch.js) |
 | 650 | 中等 | [只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard) | [650.2-keys-keyboard](solution/650.2-keys-keyboard.js) |
 | 700 | 简单 | [二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree) | [700.search-in-a-binary-search-tree](solution/700.search-in-a-binary-search-tree.js) |
+| 701 | 中等 | [二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree) | [701.insert-into-a-binary-search-tree](solution/701.insert-into-a-binary-search-tree.js) |
 | 704 | 简单 | [二分查找](https://leetcode-cn.com/problems/binary-search) | [704.binary-search](solution/704.binary-search.js) |
 | 733 | 简单 | [图像渲染](https://leetcode-cn.com/problems/flood-fill) | [733.flood-fill](solution/733.flood-fill.js) |
 | 752 | 中等 | [打开转盘锁](https://leetcode-cn.com/problems/open-the-lock) | [752.open-the-lock](solution/752.open-the-lock.js) |
