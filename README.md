@@ -61,6 +61,7 @@ Leetcode Solution
 | 701 | 中等 | [二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree) | [701.insert-into-a-binary-search-tree](solution/701.insert-into-a-binary-search-tree.js) |
 | 704 | 简单 | [二分查找](https://leetcode-cn.com/problems/binary-search) | [704.binary-search](solution/704.binary-search.js) |
 | 733 | 简单 | [图像渲染](https://leetcode-cn.com/problems/flood-fill) | [733.flood-fill](solution/733.flood-fill.js) |
+| 739 | 中等 | [每日温度](https://leetcode-cn.com/problems/daily-temperatures) | [739.daily-temperatures](solution/739.daily-temperatures.js) |
 | 752 | 中等 | [打开转盘锁](https://leetcode-cn.com/problems/open-the-lock) | [752.open-the-lock](solution/752.open-the-lock.js) |
 | 855 | 中等 | [考场就坐](https://leetcode-cn.com/problems/exam-room) | [855.exam-room](solution/855.exam-room.js) |
 | 875 | 中等 | [爱吃香蕉的珂珂](https://leetcode-cn.com/problems/koko-eating-bananas) | [875.koko-eating-bananas](solution/875.koko-eating-bananas.js) |
