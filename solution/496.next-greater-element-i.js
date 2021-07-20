@@ -65,19 +65,44 @@
  * @return {number[]}
  */
 var nextGreaterElement = function (nums1, nums2) {
+  // let stack = []
+  // let res = []
+  // let map = new Map()
+  // for (let i = nums2.length - 1; i >= 0; i--) {
+  //   while (stack.length !== 0 && nums2[i] >= stack[stack.length - 1]) {
+  //     stack.pop()
+  //   }
+  //   map.set(nums2[i], stack.length > 0 ? stack[stack.length - 1] : -1)
+  //   stack.push(nums2[i])
+  // }
+  // nums1.forEach((item) => {
+  //   res.push(map.get(item))
+  // })
+  // return res
+
+  let len1 = nums1.length
+  let len2 = nums2.length
+  if(len1 < 1 || len2 < 1 || len1 > len2) {
+    return []
+  }
+  let map = new Map()
   let stack = []
   let res = []
-  let map = new Map()
-  for (let i = nums2.length - 1; i >= 0; i--) {
-    while (stack.length !== 0 && nums2[i] >= stack[stack.length - 1]) {
-      stack.pop()
+  stack.push(nums2[0])
+  for (let i = 1; i < len2; i++) {
+    let curr = nums2[i]
+    while(stack.length !== 0 && curr > stack[stack.length - 1]) {
+      const popped = stack.pop()
+      map[popped] = curr
     }
-    map.set(nums2[i], stack.length > 0 ? stack[stack.length - 1] : -1)
-    stack.push(nums2[i])
+    stack.push(curr)
   }
-  nums1.forEach((item) => {
-    res.push(map.get(item))
-  })
+  while(stack.length !== 0) {
+    map[stack.pop()] = -1
+  }
+  for (let i = 0; i < len1; i++) {
+    res[i] = map[nums1[i]]
+  }
   return res
 }
 // @lc code=end
