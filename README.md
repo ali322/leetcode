@@ -46,6 +46,7 @@ Leetcode Solution
 | 239 | 困难 | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum) | [239.sliding-window-maximum](solution/239.sliding-window-maximum.js) |
 | 292 | 简单 | [Nim游戏](https://leetcode-cn.com/problems/nim-game) | [292.nim-game](solution/292.nim-game.js) |
 | 300 | 中等 | [最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence) | [300.longest-increasing-subsequence](solution/300.longest-increasing-subsequence.js) |
+| 319 | 中等 | [灯泡开关](https://leetcode-cn.com/problems/bulb-switcher) | [319.bulb-switcher](solution/319.bulb-switcher.js) |
 | 322 | 中等 | [零钱兑换](https://leetcode-cn.com/problems/coin-change) | [322.coin-change](solution/322.coin-change.js) |
 | 355 | 中等 | [设计推特](https://leetcode-cn.com/problems/design-twitter) | [355.design-twitter](solution/355.design-twitter.js) |
 | 382 | 中等 | [链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node) | [382.linked-list-random-node](solution/382.linked-list-random-node.js) |
