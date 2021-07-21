@@ -41,6 +41,7 @@ Leetcode Solution
 | 234 | 简单 | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list) | [234.palindrome-linked-list](solution/234.palindrome-linked-list.js) |
 | 300 | 中等 | [最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence) | [300.longest-increasing-subsequence](solution/300.longest-increasing-subsequence.js) |
 | 322 | 中等 | [零钱兑换](https://leetcode-cn.com/problems/coin-change) | [322.coin-change](solution/322.coin-change.js) |
+| 355 | 中等 | [设计推特](https://leetcode-cn.com/problems/design-twitter) | [355.design-twitter](solution/355.design-twitter.js) |
 | 382 | 中等 | [链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node) | [382.linked-list-random-node](solution/382.linked-list-random-node.js) |
 | 384 | 中等 | [打乱数组](https://leetcode-cn.com/problems/shuffle-an-array) | [384.shuffle-an-array](solution/384.shuffle-an-array.js) |
 | 386 | 中等 | [字典序排数](https://leetcode-cn.com/problems/lexicographical-numbers) | [386.lexicographical-numbers](solution/386.lexicographical-numbers.js) |
