@@ -44,6 +44,7 @@ Leetcode Solution
 | 232 | 简单 | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks) | [232.implement-queue-using-stacks](solution/232.implement-queue-using-stacks.js) |
 | 234 | 简单 | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list) | [234.palindrome-linked-list](solution/234.palindrome-linked-list.js) |
 | 239 | 困难 | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum) | [239.sliding-window-maximum](solution/239.sliding-window-maximum.js) |
+| 292 | 简单 | [Nim游戏](https://leetcode-cn.com/problems/nim-game) | [292.nim-game](solution/292.nim-game.js) |
 | 300 | 中等 | [最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence) | [300.longest-increasing-subsequence](solution/300.longest-increasing-subsequence.js) |
 | 322 | 中等 | [零钱兑换](https://leetcode-cn.com/problems/coin-change) | [322.coin-change](solution/322.coin-change.js) |
 | 355 | 中等 | [设计推特](https://leetcode-cn.com/problems/design-twitter) | [355.design-twitter](solution/355.design-twitter.js) |
