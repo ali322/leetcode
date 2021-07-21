@@ -40,6 +40,7 @@ Leetcode Solution
 | 198 | 中等 | [打家劫舍](https://leetcode-cn.com/problems/house-robber) | [198.house-robber](solution/198.house-robber.js) |
 | 204 | 简单 | [计算素数](https://leetcode-cn.com/problems/count-primes) | [204.count-primes](solution/204.count-primes.js) |
 | 206 | 简单 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | [206.reverse-linked-list](solution/206.reverse-linked-list.js) |
+| 225 | 简单 | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues) | [225.implement-stack-using-queues](solution/225.implement-stack-using-queues.js) |
 | 232 | 简单 | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks) | [232.implement-queue-using-stacks](solution/232.implement-queue-using-stacks.js) |
 | 234 | 简单 | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list) | [234.palindrome-linked-list](solution/234.palindrome-linked-list.js) |
 | 239 | 困难 | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum) | [239.sliding-window-maximum](solution/239.sliding-window-maximum.js) |
