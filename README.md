@@ -26,6 +26,7 @@ Leetcode Solution
 | 76 | 困难 | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring) | [76.minimum-window-substring](solution/76.minimum-window-substring.js) |
 | 77 | 中等 | [组合](https://leetcode-cn.com/problems/combinations) | [77.combinations](solution/77.combinations.js) |
 | 78 | 中等 | [子集](https://leetcode-cn.com/problems/subsets) | [78.subsets](solution/78.subsets.js) |
+| 92 | 中等 | [反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii) | [92.reverse-linked-list-ii](solution/92.reverse-linked-list-ii.js) |
 | 98 | 中等 | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree) | [98.validate-binary-search-tree](solution/98.validate-binary-search-tree.js) |
 | 83 | 简单 | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list) | [83.remove-duplicates-from-sorted-list](solution/83.remove-duplicates-from-sorted-list.js) |
 | 100 | 简单 | [相同的树](https://leetcode-cn.com/problems/same-tree) | [100.same-tree](solution/100.same-tree.js) |
